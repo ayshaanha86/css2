@@ -1,0 +1,45 @@
+h1{
+    background-color: beige;
+    display: inline-block;
+}
+span{
+    background-color: blueviolet;
+    display: none;
+}
+h2{
+    background-color: blueviolet;
+    display: inline;
+}
+h3{
+    color: blue;
+    text-decoration: overline underline;
+}
+p{
+    text-transform: uppercase ;
+    text-indent: 200px;
+
+}
+button{
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 20px;
+    background-color: brown;
+    color: cadetblue;
+}
+button:hover{
+    background-color: skyblue;
+    color: black;
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 20px;
+}
+a:visited{
+    color: rebeccapurple;
+}
+a:focus{
+    color: rgb(112, 95, 160);
+}
